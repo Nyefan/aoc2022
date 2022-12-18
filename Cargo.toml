@@ -6,4 +6,28 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-day1 = { path = "day1" }
+day1 = { path = "lib/day1" }
+day2 = { path = "lib/day2" }
+day3 = { path = "lib/day3" }
+day4 = { path = "lib/day4" }
+day5 = { path = "lib/day5" }
+day6 = { path = "lib/day6" }
+day7 = { path = "lib/day7" }
+day8 = { path = "lib/day8" }
+day9 = { path = "lib/day9" }
+day10 = { path = "lib/day10" }
+day11 = { path = "lib/day11" }
+day12 = { path = "lib/day12" }
+day13 = { path = "lib/day13" }
+day14 = { path = "lib/day14" }
+day15 = { path = "lib/day15" }
+day16 = { path = "lib/day16" }
+day17 = { path = "lib/day17" }
+day18 = { path = "lib/day18" }
+day19 = { path = "lib/day19" }
+day20 = { path = "lib/day20" }
+day21 = { path = "lib/day21" }
+day22 = { path = "lib/day22" }
+day23 = { path = "lib/day23" }
+day24 = { path = "lib/day24" }
+day25 = { path = "lib/day25" }
